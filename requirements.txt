@@ -1,4 +1,4 @@
 openai
 python-dotenv
-websockets
 colorama
+pyzmq
